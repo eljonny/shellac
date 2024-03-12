@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
   // times it has been resized makes this easy.
   timesResized = 0;
 
-  printf("Shellac .0.3 Initializing...\n");
+  printf("Shellac 0.3 Initializing...\n");
 
   // Allocate an array of char pointers for input buffer;
   // Allocate space for shell name and argument string.
