@@ -1,0 +1,1 @@
+./Debug/errorHandler.c.o ./Debug/shellOps.c.o ./Debug/shellTUI.c.o ./Debug/fsh.c.o

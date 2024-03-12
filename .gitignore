@@ -1,0 +1,4 @@
+.codelite
+Debug
+Release
+*.o
